@@ -1,0 +1,17 @@
+species,symbol,location,accession,pub_id,evidence
+Human,ERBB3,12,Gene:2065,ZDB-PUB-091120-51,Amino acid sequence comparison
+Human,ERBB3,12,Gene:2065,ZDB-PUB-050823-6,Amino acid sequence comparison
+Human,ERBB3,12,Gene:2065,ZDB-PUB-030905-1,Amino acid sequence comparison
+Human,ERBB3,12,Gene:2065,ZDB-PUB-030905-1,Conserved genome location (synteny)
+Human,ERBB3,12,OMIM:190151,ZDB-PUB-091120-51,Amino acid sequence comparison
+Human,ERBB3,12,OMIM:190151,ZDB-PUB-050823-6,Amino acid sequence comparison
+Human,ERBB3,12,OMIM:190151,ZDB-PUB-030905-1,Amino acid sequence comparison
+Human,ERBB3,12,OMIM:190151,ZDB-PUB-030905-1,Conserved genome location (synteny)
+Human,ERBB3,12,HGNC:3431,ZDB-PUB-091120-51,Amino acid sequence comparison
+Human,ERBB3,12,HGNC:3431,ZDB-PUB-050823-6,Amino acid sequence comparison
+Human,ERBB3,12,HGNC:3431,ZDB-PUB-030905-1,Amino acid sequence comparison
+Human,ERBB3,12,HGNC:3431,ZDB-PUB-030905-1,Conserved genome location (synteny)
+Mouse,Erbb3,10,MGI:95411,ZDB-PUB-030905-1,Amino acid sequence comparison
+Mouse,Erbb3,10,MGI:95411,ZDB-PUB-030905-1,Conserved genome location (synteny)
+Mouse,Erbb3,10,Gene:13867,ZDB-PUB-030905-1,Amino acid sequence comparison
+Mouse,Erbb3,10,Gene:13867,ZDB-PUB-030905-1,Conserved genome location (synteny)
